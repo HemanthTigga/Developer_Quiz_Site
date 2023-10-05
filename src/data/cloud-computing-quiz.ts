@@ -1,5 +1,23 @@
 const cloudComputingQuiz = [
   {
+    Question: "Which cloud computing strategy is often referred to as 'Lift and Shift'?",
+    Answer: "Rehosting",
+    Distractor1: "Repurchase",
+    Distractor2: "Replatform",
+    Distractor3: "Rearchitect",
+    Explanation: "The Rehosting strategy is often referred to as 'Lift and Shift' because you are moving your existing data and systems to the cloud with no changes. The advantage of this strategy is that it has a lower risk when migrating to the cloud",
+    Link: "https://www.freecodecamp.org/news/advantages-of-cloud-computing/"
+  },
+  {
+    Question: "Which of the following is NOT a common strategy in cloud migration?",
+    Answer: "Redecorating",
+    Distractor1: "Rehosting",
+    Distractor2: "Repurchasing",
+    Distractor3: "Refactoring",
+    Explanation: "The term 'Redecorating' is not a recognized strategy in cloud migration. While Rehosting, Repurchasing, and Refactoring are established methods for migrating applications and services to the cloud.",
+    Link: "https://www.freecodecamp.org/news/advantages-of-cloud-computing/"
+  },
+  {
     Question: "Which of the following is NOT considered an advantage of cloud computing?",
     Answer: "Depends on network connectivity",
     Distractor1: "Scalability",
